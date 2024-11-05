@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oluwioli.github.io/AXm/sitemap_index.txt
+Sitemap: https://oluwioli.github.io/Fah/sitemap_index.txt
+Sitemap: https://oluwioli.github.io/keK/sitemap_index.txt
+Sitemap: https://oluwioli.github.io/xjZ/sitemap_index.txt
